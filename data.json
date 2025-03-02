@@ -1,0 +1,34 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Employee Product Assignment System Backend",
+      "description": "The Employee Product Assignment System is a web application designed to manage the assignment of demo products to employees within an organization.",
+      "skills": ["Nodejs", "Expressjs", "Typescript", "Mongodb", "JWT", "Bcrypt"],
+      "link": "https://github.com/dilipksahu/Employee-Product-Assignment-System-Nodejs"
+    },
+    {
+      "id": 2,
+      "title": "Vehicle Transfer Module",
+      "description": "A Vehicle owner can manages to transfer a vehicle from one driver to another while keeping a record of all transfers",
+      "skills": ["Nestjs", "Postresql" , "Nextjs","Multer","Typeorm"],
+      "link": "https://github.com/dilipksahu/vehicle-transfer"
+    },
+    {
+      "id": 3,
+      "title": "Online Flight Booking",
+      "description": "A website to book flight, hold fare, cancel booking, auto cancel holing fare and fare increase implemented. alert on seat availability.",
+      "skills": ["Expresjs", "Mongodb", "React","JWT", "Bcrypt", "Swagger","passport","Rozarpay","Material-UI","Redux","Bootstrap"],
+      "link": "https://idyllic-blancmange-2e0f78.netlify.app/"
+    },
+    {
+      "id": 4,
+      "title": "Book Management System",
+      "description": "Develop a RESTful API for managing a collection of books. The API should allow users to perform CRUD operations on books and support user authentication.",
+      "skills": ["Expresjs", "Mongodb", "JWT", "Bcrypt", "Swagger", "Joi", "Jest" ],
+      "link": "https://github.com/dilipksahu/book-management-nodejs-api"
+    }
+   
+  ]
+}
+
