@@ -1,4 +1,5 @@
 import { RevealOnScroll } from "../RevealOnScroll";
+import data from "../../../data.json";
 
 function Home() {
   return (
@@ -6,14 +7,10 @@ function Home() {
       <RevealOnScroll>
         <div className="text-center z-10 px-4">
           <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-blue-500 to-cyan-400 bg-clip-text text-transparent leading-right">
-            Hi, I'm Dilip Sahu
+            {data.home.title}
           </h1>
           <p className="text-gray-400 text-lg mb-8 max-w-lg mx-auto">
-            I'm a full-time B.Sc. IT graduate with expertise in Node.js, MongoDB, SQL, React.js, JavaScript, and TypeScript.
-            Proficient in developing scalable web applications and building robust APIs. Also experienced in machine learning
-            using Python and R, with additional skills in MySQL, HTML5, CSS3, and BI tools like Tableau.
-            Strong problem-solving abilities and a deep understanding of backend development, database optimization, and
-            integration of third-party services.
+            {data.home.description}
           </p>
           <div className="flex justify-center space-x-4">
             <a href="#projects"

@@ -1,4 +1,28 @@
 {
+  "home": {
+    "title": "Hi, I'm Dilip Sahu",
+    "description": "I'm a full-time B.Sc. IT graduate with expertise in Node.js, MongoDB, SQL, React.js, JavaScript, and TypeScript. Proficient in developing scalable web applications and building robust APIs. Also experienced in machine learning using Python and R, with additional skills in MySQL, HTML5, CSS3, and BI tools like Tableau. Strong problem-solving abilities and a deep understanding of backend development, database optimization, and integration of third-party services."
+  },
+  "about": {
+    "title": "Passionate developer with expertise in building scalable web applications and creating innovative solutions.",
+    "frontendSkills": ["Reactjs", "Nextjs", "TailwindCSS", "HTML", "CSS"],
+    "backenbSkills": ["Nodejs", "Expressjs", "Nestjs", "Python/Django", "Php/Laravel", "Mongodb", "MySql", "Postgresql", "Elastic Search"],
+    "education": [
+      {
+        "name": "Data Science in Python, R",
+        "description": "Itvedant Education Pvt Ltd, Thane (11/2019 - 08/2020)"
+      },
+      {
+        "name": "BSC in Information Technology",
+        "description": "N.G Acharya & D.k Maratha College, University of Mumbai, Mumbai (06/2008 - 08/2013)"
+      }
+    ],
+    "workExperience": [
+      "Nodejs Developer at Revo Education Pvt Ltd, Mira Road, Mumbai (06/2024 - Present)",
+      "Full Stack Developer (MERN) at Medisage E-Learning Pvt Ltd, Powai, Mumbai (08/2022 - 06/2024)",
+      "Python/Django Developer at Furtados High Music Pvt Ltd, Khar Road, Mumbai (07/2020 - 07/2022)"
+    ]
+  },
   "projects": [
     {
       "id": 1,
