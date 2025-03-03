@@ -3,7 +3,7 @@
 This repository contains a beautiful, responsive personal portfolio built using **React**, **Vite**, and **TailwindCSS**. The project showcases modern web development techniques including smooth animations, responsive layouts, and interactive UI components.
 
 ### Want to watch this?
-[![Check this out](![Image](https://github.com/user-attachments/assets/2cf739ff-f288-41b7-b1df-adb2116faecb))
+![Image](https://github.com/user-attachments/assets/2cf739ff-f288-41b7-b1df-adb2116faecb)
 
 
 ## Features
